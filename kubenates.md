@@ -288,9 +288,7 @@
     kubectl create -f ./newpod.json
     ## 
 
-
-    
-
 ```
 
 ##  如何创建一个服务 
+![图片](img/node_pod_volume.png)
